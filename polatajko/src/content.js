@@ -8,7 +8,7 @@ export const siteContent = {
   about: {
     title: "About",
     paragraphs: [
-      <>I'm a budding AI safety researcher, pivoting from a 5 year career as a generalist engineer in climate tech. I care about solving problems that have widespread and unequitable negative impacts on humanity, and believe that technology is a great way to do this.</>,
+      <>I'm a budding AI safety researcher, pivoting from a 5 year career as a generalist engineer in climate tech. I care about solving problems that have widespread and unequitable impacts on humanity, and believe that technology is a great way to do this.</>,
       <>Outside of tech, I like climbing mountains, losing pub quizzes, and playing guitar in a folk-rock band called <a href="https://www.instagram.com/steeplekeeperband/" className="link">steeplekeeper</a>.</>
     ]
   },
